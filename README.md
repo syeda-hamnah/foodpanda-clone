@@ -1,1 +1,2 @@
-# foodpanda-clone
+# foodpanda-clone landing page using:
+Html & CSS
